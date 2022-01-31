@@ -1,4 +1,4 @@
-# Bot Genesis
+# Genesis
 
 ## Steps of Code:
 * Step 1:
